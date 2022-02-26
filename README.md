@@ -6,7 +6,7 @@
 Calculator2.0 is an easy-to-use web application along with a beautiful UI, capable of performing simple and complex calculations as well. It has been developed using HTML, CSS and JavaScript and has been deployed on Microsoft Azure.
 
 ## Deployment Steps Followed
-I have deployed a static website (that is, MyCalculator) on Azure using Azure Storage accounts after logging into [Azure portal](https://portal.azure.com/).
+I have deployed a static website (that is, Calculator2.0) on Azure using Azure Storage accounts after logging into [Azure portal](https://portal.azure.com/).
 
 - Firstly, I created a **Resource group**.
 - Secondly, I created a **Storage account** with an unique name.
