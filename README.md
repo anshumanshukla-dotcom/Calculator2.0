@@ -1,5 +1,4 @@
 # Calculator2.0
-# MyCalculatorWeb
 *Working URL:* https://calculator2point0.z13.web.core.windows.net/
 
 ## Synopsis
